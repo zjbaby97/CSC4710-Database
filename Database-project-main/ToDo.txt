@@ -1,0 +1,4 @@
+make ownerpage -> editPage
+make editPage save edits via new userDAO function ex insert
+
+update sql for initalize database button
